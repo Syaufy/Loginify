@@ -1,0 +1,8 @@
+C:\Users\RPL\Documents\Visual Studio 2008\Projects\Avatarlogin\Avatarlogin\bin\Debug\Avatarlogin.exe
+C:\Users\RPL\Documents\Visual Studio 2008\Projects\Avatarlogin\Avatarlogin\bin\Debug\Avatarlogin.pdb
+C:\Users\RPL\Documents\Visual Studio 2008\Projects\Avatarlogin\Avatarlogin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RPL\Documents\Visual Studio 2008\Projects\Avatarlogin\Avatarlogin\obj\Debug\Avatarlogin.Form1.resources
+C:\Users\RPL\Documents\Visual Studio 2008\Projects\Avatarlogin\Avatarlogin\obj\Debug\Avatarlogin.Properties.Resources.resources
+C:\Users\RPL\Documents\Visual Studio 2008\Projects\Avatarlogin\Avatarlogin\obj\Debug\Avatarlogin.csproj.GenerateResource.Cache
+C:\Users\RPL\Documents\Visual Studio 2008\Projects\Avatarlogin\Avatarlogin\obj\Debug\Avatarlogin.exe
+C:\Users\RPL\Documents\Visual Studio 2008\Projects\Avatarlogin\Avatarlogin\obj\Debug\Avatarlogin.pdb
